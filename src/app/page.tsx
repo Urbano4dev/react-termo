@@ -23,7 +23,7 @@ export default function Home() {
           <Form></Form>
         </div>
       </div>
-      <CircleQuestionMarkIcon className="absolute bottom-12 left-15 size-12" />
+      <CircleQuestionMarkIcon className="fixed bottom-12 left-15 size-12" />
     </>
   );
 }
